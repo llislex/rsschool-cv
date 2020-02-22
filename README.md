@@ -1,2 +1,2 @@
-# rsschool-cv
-https://lislex.github.io/rsschool-cv/cv
+[rsschool-cv](https://llislex.github.io/rsschool-cv/cv)
+https://llislex.github.io/rsschool-cv/cv
